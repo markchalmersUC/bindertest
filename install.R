@@ -1,4 +1,3 @@
-install.packages("tidyverse")
 install.packages("tabularizer")
 install.packages("dplyr")
 install.packages("sf")
